@@ -247,4 +247,18 @@ p{
        font-weight: bold;
        background: #68B984;
    }
+
 } 
+
+@media (max-width: 520px) {
+    .title {
+      width: 180px;
+      font-size: medium;
+  }
+ 
+  .container-box {
+    padding: 1px;
+    margin-right: 8px;
+    margin-left: -1px;
+   }
+}
