@@ -235,6 +235,16 @@ p{
     }
 
     .recomendations {
-        height: 90px;
+        height: auto;
     }
+
+    .btn-right {
+      border: none;
+       height: 50px;
+       width: 150px;
+       margin-right: 20px;
+       border-radius: 15px;
+       font-weight: bold;
+       background: #68B984;
+   }
 } 
